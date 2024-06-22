@@ -67,6 +67,8 @@ Ensure that the `datas` directory contains the verb list and samples mapped with
 To evaluate the performance of metaphor detection using the Oxford theme on the TroFi dataset, run the following Python function:
 
 ```python
+from data_process import *
+
 TroFi_judge_by_oxford_topic_k(1, 2, "datas/TroFi_sent_svo_oxford_topic_k_basic.csv", "datas/TroFi_verb_lists_oxford_topic.csv")
 ```
 
