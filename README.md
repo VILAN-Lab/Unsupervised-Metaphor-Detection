@@ -9,7 +9,6 @@ This repository contains the code for the paper "Can ChatGPT's Performance be Im
 - [Usage](#usage)
 - [Datasets](#datasets)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -82,10 +81,3 @@ The `datas` directory should include:
 
 We welcome contributions from the community. If you find a bug or have a feature request, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-For any further questions or issues, feel free to open an issue in the repository. Happy coding!
