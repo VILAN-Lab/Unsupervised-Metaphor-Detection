@@ -1,6 +1,6 @@
 # Can ChatGPT's Performance be Improved on Verb Metaphors Detection Tasks? Bootstrapping and Combining Tacit Knowledge (ACL2024)
 
-This repository contains the code for the paper "Can ChatGPT's Performance be Improved on Verb Metaphors Detection Tasks? Bootstrapping and Combining Tacit Knowledge" presented at ACL 2024. The project explores methods to enhance ChatGPT's performance in detecting verb metaphors by using bootstrapping techniques and combining tacit knowledge.
+This repository contains the code for the paper "Can ChatGPT's Performance be Improved on Verb Metaphors Detection Tasks? Bootstrapping and Combining Tacit Knowledge" presented at ACL 2024.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This repository contains the code for the paper "Can ChatGPT's Performance be Im
 
 ## Introduction
 
-In this project, we investigate approaches to improve the performance of ChatGPT in detecting verb metaphors. By utilizing bootstrapping techniques and integrating tacit knowledge, we aim to enhance the model's understanding and detection capabilities.
+In this project, we investigate approaches to improve the performance of ChatGPT in detecting verb metaphors. By bootstrapping and combining tacit knowledge, we aim to enhance the model's understanding and detection capabilities.
 
 ## Setup
 
