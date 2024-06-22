@@ -1,0 +1,647 @@
+0,1,absorb,He absorbed the k0wledge or beliefs of his tribe .,1,0
+1,1,absorb,He absorbed the costs for the accident .,1,0
+2,4,absorb,The sales tax is absorbed into the state income tax .,1,0
+3,4,absorb,The immigrants were quickly absorbed into society .,1,0
+4,4,absorb,Her interest in butterflies absorbs her completely .,1,0
+5,2,abuse,This boss abuses his workers .,0,0
+6,2,abuse,Do n't abuse the system .,1,0
+7,2,abuse,The actress abused the policeman who gave her a parking ticket .,0,0
+8,3,abuse,Her husband often abuses alcohol .,1,0
+9,3,accommodate,This hotel can accommodate 250 guests .,0,0
+10,4,accommodate,The scientists had to accommodate the new results with the existing theories .,1,0
+11,3,ack0wledge,The program committee ack0wledged the submission of the authors of the paper .,0,0
+12,2,ack0wledge,He never ack0wledges his colleagues when they run into him in the hallway .,0,0
+13,2,ack0wledge,We must ack0wledge the kindness she showed towards us .,0,0
+14,0,ack0wledge,ack0wledge the deed .,0,0
+15,4,ack0wledge,The Crown Prince was ack0wledged as the true heir to the throne .,0,0
+16,5,adhere,The residents of this village adhered to Catholicism .,1,0
+17,3,adhere,Will this wallpaper adhere to the wall ?,0,0
+18,6,answer,The steering of my new car answers to the slightest touch .,1,0
+19,0,answer,answer the telephone .,0,0
+20,10,answer,The question concerning the meaning of life can 0t be answered .,0,0
+21,2,answer,The defendant answered to all the charges of the prosecution .,0,0
+22,1,ascend,We ascended the mountain .,0,0
+23,3,ascend,Inheritance may 0t ascend linearly .,1,0
+24,2,ascend,The path ascended to the top of the hill .,0,0
+25,1,attack,"Hitler attacked Poland on September 1 , 1939 and started World War II .",0,0
+26,8,attack,The editors of the left - leaning paper attacked the new House Speaker .,1,0
+27,2,attack,The Serbs attacked the village at night .,0,0
+28,1,attack,I attacked the problem as soon as I got out of bed .,1,0
+29,4,attack,The cancer cells are attacking his liver .,1,0
+30,2,besiege,The Turks besieged Vienna .,0,0
+31,2,besiege,She was besieged by so many problems that she got discouraged .,1,0
+32,3,besiege,The press photographers besieged the movie star .,1,0
+33,3,bind,The Chinese would bind the feet of their women .,0,0
+34,1,bind,They bind their books in leather .,0,0
+35,2,bind,The hydrogen binds the oxygen .,1,0
+36,1,blaze,Meteors blazed across the atmosphere .,1,0
+37,9,blaze,The summer sun alone can cause a pine to blaze .,0,0
+38,2,blaze,The spaceship blazed out into space .,1,0
+39,2,blister,Her feet blistered during the long hike .,0,0
+40,2,blister,The Senator blistered the administration in his speech on Friday .,1,1
+41,2,blur,The haze blurs the hills .,0,0
+42,2,blur,The fog blurs my vision .,0,0
+43,6,blur,The distinction between the two theories blurred .,1,0
+44,2,bolt,The listeners bolted when he discussed his strange ideas .,1,0
+45,2,bolt,Do n't bolt your food !,1,0
+46,4,boost,The tax cut will boost the eco0my .,1,0
+47,0,boost,Boost the voltage in an electrical circuit .,0,0
+48,5,boost,The singer had to be boosted onto the stage by a special contraption .,0,0
+49,3,bounce,The rubber ball bounced .,0,0
+50,8,bounce,The ex - boxer 's job is to bounce people who want to enter this private club .,1,1
+51,2,bow,The government bowed to the military pressure .,1,0
+52,1,breathe,He breathed new life into the old house .,1,0
+53,4,breathe,Our new synthetic fabric breathes and is perfect for summer wear .,1,0
+54,1,brush,Johnson brushed the hairs from his jacket .,0,0
+55,1,brush,He brushed the wall lightly .,0,0
+56,1,brush,She brushed the suit before hanging it back into the closet .,0,0
+57,2,build,Suspense was building right from the beginning of the opera .,1,0
+58,3,build,The government is building new schools in this state .,0,0
+59,0,build,build a modern nation .,1,0
+60,2,build,These architects build in interesting and new styles .,0,0
+61,0,build,build a defense on 0thing but the accused person 's reputation .,1,0
+62,3,buy,This sum will buy you a ride on the train .,0,0
+63,3,buy,She wanted to buy his love with her dedication to him and his work .,0,0
+64,3,buy,I ca n't buy this story .,1,0
+65,2,buzz,bees were buzzing around the hive .,0,0
+66,1,buzz,Planes buzzed the crowds in the square .,0,0
+67,3,buzz,This office is buzzing with activity .,1,1
+68,1,buzz,he buzzed the servant .,1,0
+69,0,capture,capture the essence of Spring   .,1,1
+70,1,capture,She captured all the men 's hearts .,1,0
+71,3,capture,This nucleus has captured the slow - moving neutrons .,0,0
+72,1,claw,They clawed their way to the top of the mountain .,1,0
+73,1,claw,She clawed the doork0b .,1,0
+74,2,claw,The politician clawed his rival .,1,0
+75,3,climb,Did you ever climb up the hill behind your house ?,0,0
+76,2,climb,Sales were climbing after prices were lowered .,1,0
+77,2,climb,Sales were climbing after prices were lowered .,1,0
+78,2,climb,The path climbed all the way to the top of the hill .,1,0
+79,2,clog,The leaves clog our drains in the Fall .,0,0
+80,2,clog,horses were clogged until they were tamed .,1,0
+81,4,clog,The market is being clogged by these operations .,1,0
+82,1,clog,Fear clogged her mind .,1,1
+83,2,cloud,The smoke clouded above the houses .,0,1
+84,3,cloud,Their faces were clouded with sadness .,1,1
+85,2,cloud,The stroke clouded memories of her youth .,1,1
+86,2,cloud,The chemical clouded the liquid to which it was added .,1,0
+87,3,color,His political ideas color his lectures .,1,1
+88,0,color,color the walls with paint in warm tones .,0,0
+89,0,commit,commit a random act of kindness .,0,0
+90,1,communicate,Please communicate this message to all employees .,0,0
+91,1,communicate,He communicated his anxieties to the psychiatrist .,0,0
+92,0,communicate,communicate a disease .,1,0
+93,2,communicate,The rooms communicated .,1,0
+94,1,compare,John compared his haircut to his friend 's .,0,0
+95,4,compare,This car does 0t compare with our line of Mercedes .,0,0
+96,2,compare,We can compare the Han dynasty to the Romans .,0,0
+97,3,compose,Greed and ambition composed his personality .,1,0
+98,1,compose,Beethoven composed nine symphonies .,0,0
+99,4,computerize,Our office is fully computerized 0w .,0,0
+100,1,computerize,They computerized the car industry .,0,0
+101,0,condense,condense the contents of a book into a summary .,1,0
+102,3,condense,The cold air condensed the steam .,0,0
+103,3,condense,All our planets condensed out of the same material .,0,0
+104,1,condense,Congress condensed the three - year plan into a six - month plan .,1,0
+105,2,convulse,The comedian convulsed the crowd .,1,0
+106,1,convulse,earthquakes convulsed the countryside .,1,1
+107,2,convulse,The spasm convulses her facial muscles .,0,0
+108,5,convulse,The muscles in her face convulsed .,0,0
+109,3,crawl,The crocodile was crawling along the riverbed .,0,0
+110,2,crawl,My skin crawled -- I was terrified .,1,1
+111,4,crawl,The old cheese was crawling with maggots .,1,1
+112,14,crawl,European children learn the breast stroke ; they often do n't k0w how to crawl .,0,0
+113,3,crown,The prince was crowned in Westminster Abbey .,0,0
+114,2,crown,The speech crowned the meeting .,1,0
+115,3,crown,A weather vane crowns the building .,1,0
+116,0,crush,crush an aluminum can .,0,0
+117,2,crush,The car crushed the toy .,0,0
+118,2,crush,She was crushed by his refusal of her invitation .,1,1
+119,3,crush,The plastic bottle crushed against the wall .,0,0
+120,3,curl,The cigar smoke curled up at the ceiling .,1,0
+121,0,curl,"Curl my hair , please .",0,0
+122,1,dash,He dashed the plate against the wall .,0,0
+123,0,dash,dashed ambitions and hopes .,1,0
+124,2,dash,blue paint dashed with white .,0,0
+125,0,deflate,deflate the air mattress .,0,0
+126,6,deflate,The bad review of his work deflated his self - confidence .,1,0
+127,3,deflate,The new measures deflated the eco0my .,1,0
+128,0,deflate,deflate the currency .,1,0
+129,2,deflate,The balloons deflated .,0,0
+130,1,design,Chanel designed the famous suit .,0,0
+131,1,design,She designed a good excuse for 0t attending classes that day .,1,0
+132,2,devour,Fire had devoured our home .,1,1
+133,1,devour,She devoured his 0vels .,1,0
+134,1,devour,he devoured three sandwiches .,0,0
+135,3,digest,I can 0t digest milk products .,0,0
+136,3,digest,I can 0t digest all this information .,1,0
+137,1,digest,Protein digests in a few hours .,0,0
+138,2,digest,the government digested the entire law into a code .,1,0
+139,1,down,He downed three martinis before dinner .,1,0
+140,3,down,Some people can down a pound of meat in the course of one meal .,1,0
+141,2,down,The policeman downed the heavily armed suspect .,0,0
+142,3,drain,The rain water drains into this big vat .,0,0
+143,1,drain,We drained the oil tank .,0,0
+144,4,drain,Life in the camp drained him .,1,0
+145,1,drift,s0w drifting several feet high .,0,0
+146,3,drift,stock prices are drifting higher .,1,0
+147,2,drift,My son drifted around for years in California before going to law school .,1,1
+148,4,drift,The unk0wn young man drifted among the invited guests .,1,0
+149,0,drift,drift the boats downstream .,0,0
+150,3,drift,The stock market drifted upward .,1,0
+151,3,drink,The patient must drink several liters each day .,0,0
+152,2,drink,The mother drinks in every word of her son on the stage .,1,0
+153,2,drink,The husband drinks and beats his wife .,0,0
+154,1,drown,She drowned her trouble in alcohol .,1,1
+155,2,drown,The child drowned in the lake .,0,0
+156,2,dull,Age had dulled the surface .,0,0
+157,2,dull,Middle age dulled her appetite for travel .,1,1
+158,2,dump,The truck dumped the garbage in the street .,0,0
+159,4,emerge,"Suddenly , the proprietor emerged from his office .",0,0
+160,3,emerge,Some nice results emerged from the study .,1,0
+161,2,engrave,The event engraved itself into her memory .,1,0
+162,0,engrave,engrave the pen with the owner 's name .,0,0
+163,1,erase,Please erase the formula on the blackboard -- it is wrong !,0,0
+164,1,erase,Who erased the files form my hard disk ?,0,0
+165,1,erupt,Unrest erupted in the country .,1,0
+166,2,erupt,The tooth erupted and had to be extracted .,1,0
+167,2,erupt,A rash erupted on her arms after she had touched the exotic plant .,1,0
+168,1,explode,We exploded the nuclear bomb .,0,0
+169,3,explode,The champagne bottle exploded .,0,0
+170,2,explode,The boss exploded when he heard of the resignation of the secretary .,1,0
+171,2,explode,The enemy exploded the bridge .,0,0
+172,1,fasten,He fastened the lock onto the door .,0,0
+173,2,fasten,This dress fastens in the back .,0,0
+174,1,fasten,They fastened various nicknames to each other .,1,0
+175,1,ferment,We ferment the grapes for a very long time to achieve high alcohol content .,0,0
+176,0,fill,fill the child with pride .,1,0
+177,3,fill,The pool slowly filled with water .,0,0
+178,2,fill,The liquid fills the container .,0,0
+179,2,flap,The bird flapped its wings .,0,0
+180,4,flare,Every star seemed to flare with new intensity .,1,0
+181,3,flash,The lights were flashing .,0,0
+182,4,flash,The latest intelligence is flashed to all command posts .,1,0
+183,1,flash,he flashed a $ 100 bill .,1,0
+184,3,flash,A shooting star flashed and was gone .,0,0
+185,1,float,He floated the logs down the river .,0,0
+186,3,float,The Republicans are floating the idea of a tax reform .,1,0
+187,2,float,The dancer floated across the stage .,1,0
+188,2,float,The government floated the ruble for a few months .,1,0
+189,3,flood,The swollen river flooded the village .,0,0
+190,0,flood,flood the market with tennis shoes .,1,0
+191,2,flood,Our basement flooded during the heavy rains .,0,0
+192,2,flow,The crowd flowed out of the stadium .,1,0
+193,1,flow,Water flowed into the cave .,0,0
+194,2,flow,The champagne flowed at the wedding .,1,0
+195,2,flush,The garbage flushed down the river .,0,0
+196,2,flush,the sky flushed with rosy splendor .,1,1
+197,0,flush,flush the wound with antibiotics .,1,0
+198,0,form,form the young child 's character .,1,0
+199,2,form,the water formed little beads .,0,0
+200,3,fracture,This writer really fractures the language .,1,0
+201,3,fracture,These events could fracture the balance of power .,1,0
+202,2,fracture,The pothole fractured a bolt on the axle .,0,0
+203,0,fuel,"fuel aircraft , ships , and cars .",0,0
+204,2,fuel,The tanker fueled in Bahrain .,0,0
+205,0,fuel,fuel the debate on creationism .,1,0
+206,3,gag,The press was gagged .,1,0
+207,3,gallop,The horse was galloping along .,0,0
+208,2,glare,The girl glared at the man who tried to make a pass at her .,0,0
+209,2,glare,The moon glared back at itself from the lake 's surface .,1,1
+210,2,glare,The sun glared down on us .,1,0
+211,3,glow,The fireflies were glowing and flying about in the garden .,0,0
+212,2,glow,Her face glowed when she came out of the sauna .,1,0
+213,3,glow,The coals were glowing in the dark .,0,0
+214,5,glow,Make the people 's hearts glow .,1,1
+215,2,grab,The passenger grabbed for the oxygen mask .,0,0
+216,1,grab,She grabbed the child 's hand and ran out of the room .,0,0
+217,3,grab,This story will grab you .,1,0
+218,2,gravitate,The conversation gravitated towards politics .,1,1
+219,1,gravitate,Boys gravitate towards girls at that age .,1,0
+220,2,gravitate,The stars gravitate towards each other .,0,0
+221,0,grind,grind the spices in a mortar .,0,0
+222,2,grope,His mind groped to make the connection .,1,0
+223,12,grope,He made some sexual advances at the woman in his office and groped her repeatedly .,0,0
+224,4,guard,There will be men guarding the horses .,0,0
+225,1,guard,Please guard my possessions while I 'm away .,0,0
+226,3,guard,This vaccine will guard you against infection .,1,0
+227,5,gutter,The cooling lava continued to gutter toward lower ground .,0,0
+228,1,gutter,Tears guttered down her face .,1,1
+229,3,gutter,The heavy rain guttered the soil .,0,0
+230,4,gutter,The roofer began to gutter the buildings .,0,0
+231,4,harmonize,The colors do n't harmonize .,1,0
+232,0,harmonize,harmonize one 's goals with one 's abilities .,1,0
+233,1,heap,He heaped him with work .,1,0
+234,0,heap,heap firewood around the fireplace .,0,0
+235,0,heap,heap the platter with potatoes .,0,0
+236,2,hunt,Goering often hunted wild boars in Poland .,0,0
+237,1,hunt,They hunted the unwanted immigrants out of the neighborhood .,1,0
+238,2,hunt,The oscillator hunts about the correct frequency .,1,0
+239,3,hurt,This exercise will hurt your back .,0,0
+240,3,hurt,Our business was hurt by the new competition .,1,0
+241,3,ignite,Great heat can ignite almost any dry matter .,0,0
+242,2,ignite,Marsh gases ignited suddenly .,0,0
+243,8,ignite,The ostentatious way of living of the rich ignites the hatred of the poor .,1,0
+244,4,immigrate,only few plants can immigrate to the island .,1,0
+245,2,immigrate,Many people immigrated at the beginning of the 20th century .,0,0
+246,1,incline,She inclined her head to the student .,0,0
+247,2,incline,Their language inclines us to believe them .,1,0
+248,3,infect,Your children have infected you with this head cold .,0,0
+249,2,infect,society was infected by racism .,1,1
+250,2,infect,His laughter infects everyone who is in the same room .,1,1
+251,3,inflate,The charges were inflated .,1,0
+252,2,inflate,The war inflated the eco0my .,1,1
+253,0,inflate,inflate the currency .,1,0
+254,1,inherit,I inherited a castle from my French grandparents .,0,0
+255,3,inherit,The new chairman inherited many problems from the previous chair .,1,0
+256,1,inherit,I inherited my good e1ight from my mother .,0,0
+257,1,inject,We injected the glucose into the patient 's vein .,0,0
+258,1,inject,He injected new life into the performance .,1,1
+259,0,inject,inject hydrogen into the balloon .,0,0
+260,1,interrupt,We interrupt the program for the following messages .,0,0
+261,1,interrupt,She interrupted her pregnancy .,1,0
+262,1,invade,"Hitler invaded Poland on September 1 , 1939 .",0,0
+263,3,invade,This new colleague invades my territory .,1,1
+264,3,invade,The cancer had invaded her lungs .,1,0
+265,2,jam,The driver jammed the brake pedal to the floor .,0,0
+266,2,jam,the mechanism jammed .,0,0
+267,0,juggle,juggle an account so as to hide a deficit .,1,0
+268,3,juggle,She had to juggle her job and her children .,1,0
+269,2,juggle,the player juggled the ball .,0,0
+270,0,key,key one 's actions to the voters ' prevailing attitude .,1,0
+271,2,kick,The boy kicked the dog .,0,0
+272,2,kick,The gun kicked back into my shoulder .,0,0
+273,1,kite,He kited many checks .,1,0
+274,2,kite,The businessman kited millions of dollars .,1,0
+275,2,kite,The pilot kited for a long time over the mountains .,0,0
+276,2,land,The bird landed on the highest branch .,0,0
+277,4,land,the pilot managed to land the airplane safely .,0,0
+278,2,land,this may land you in jail .,1,0
+279,3,land,The drug smugglers landed the heroin on the beach of the island .,0,0
+280,1,land,He landed several blows on his opponent 's head .,1,0
+281,2,land,The ship landed in Pearl Harbor .,0,0
+282,0,lay,lay the books on the table .,0,0
+283,0,lay,lay the foundation for a new health care plan .,1,0
+284,0,lay,lay a responsibility on someone .,1,0
+285,3,leak,The news were leaked to the paper .,1,0
+286,1,leak,Water leaked out of the can into the backpack .,0,0
+287,2,leak,The container leaked gasoline .,0,0
+288,1,lean,He leaned his rifle against the wall .,0,0
+289,2,lend,I will lend you my car .,0,0
+290,3,lend,This story would lend itself well to serialization on television .,1,0
+291,0,level,level criticism or charges at somebody .,1,0
+292,3,level,The building was levelled .,0,0
+293,2,level,The ground levelled off .,0,0
+294,4,lie,The fate of Bosnia lies in the hands of the West .,1,0
+295,2,lighten,the conversation lightened me up a bit .,1,1
+296,1,lighten,she lightened the load on the tired donkey .,0,0
+297,2,lighten,The room lightened up .,0,0
+298,1,line,trees line the riverbank .,1,0
+299,2,line,sorrow had lined his face .,1,0
+300,0,line,lined books are more enduring .,0,0
+301,0,load,load the truck with hay .,0,0
+302,1,load,He loaded his gun carefully .,0,0
+303,0,load,load the bags onto the trucks .,0,0
+304,0,lock,Lock the bike to the fence !,0,0
+305,10,lock,The therapist 0ticed that the patient 's knees tended to lock in this exercise .,0,0
+306,1,lock,He locked his hands around her neck .,1,0
+307,2,lock,He was locked in a laughing fit .,1,0
+308,1,lock,She locked her jewels in the safe .,0,0
+309,2,loop,The bicycle looped around the tree .,1,0
+310,3,loop,The stunt pilot looped his plane .,0,0
+311,0,map,map the surface of Venus .,0,0
+312,6,map,We have n't even begun to map the many galaxies that we k0w exist .,0,0
+313,2,map,sorrow was mapped on the mother 's face .,1,0
+314,2,march,The Japanese marched their prisoners through Manchuria .,0,0
+315,2,match,The company matched the employees ' contributions .,1,0
+316,4,match,This job does n't match my dreams .,1,0
+317,2,match,Let them match their best athletes against ours .,1,0
+318,3,match,The two pieces match .,0,0
+319,3,mellow,Age and experience mellowed him over the years .,1,1
+320,4,mellow,These apples need to mellow a bit more .,0,0
+321,2,melt,The wax melted in the sun .,0,0
+322,2,melt,The sun melted the ice .,0,0
+323,4,melt,Hundreds of actors were melting into the scene .,1,0
+324,2,melt,her resistance melted under his charm .,1,1
+325,2,mold,The furniture molded in the old house .,0,0
+326,1,mold,She molded the rice balls carefully .,0,0
+327,2,mold,The dress molds her beautiful figure .,1,0
+328,1,mount,They mounted the aerator on a floating .,0,0
+329,0,mount,mount slides for macroscopic analysis .,0,0
+330,0,mount,mount a campaign against por0graphy .,1,0
+331,0,mount,mount a theater production .,1,0
+332,1,nag,She nags her husband all day long .,0,0
+333,0,nag,nagging concerns and doubts .,1,0
+334,0,negociate,negociate securities .,0,0
+335,2,negociate,The hiker negociated the high mountain pass .,1,0
+336,2,negociate,The parties negociated all night .,0,0
+337,2,neutralize,The treaty neutralized the small republic .,1,0
+338,2,neutralize,Her optimism neutralizes his gloom .,1,0
+339,1,neutralize,She neutralized the solution .,0,0
+340,1,0d,He 0dded his approval .,0,0
+341,2,0d,The teacher 0dded when the student gave the right answer .,0,0
+342,4,0d,The old man was 0dding in his chair .,0,0
+343,3,0d,the flowers were 0dding in the breeze .,1,0
+344,1,paint,We painted the rooms yellow .,0,0
+345,1,paint,He painted his mistress many times .,0,0
+346,3,palpitate,Her violent feelings palpitated the young woman 's heart .,0,1
+347,0,paste,paste the sign on the wall .,0,0
+348,0,paste,paste the sign on the wall .,0,0
+349,1,paste,He pasted his opponent .,1,0
+350,3,peep,The new moon peeped through the tree tops .,1,0
+351,2,pierce,The cold pierced her bones .,1,0
+352,2,pierce,The scream pierced the night .,1,0
+353,2,pierce,The needle pierced her flesh .,0,0
+354,0,pin,pin the needle to the shirt .,0,0
+355,2,ping,The bugs pinged the lamp shade .,0,0
+356,2,ping,the bullet pinged when they struck the car .,0,0
+357,2,ping,I 'll ping my accountant -- April 15 is nearing .,1,0
+358,0,ping,ping your machine in the office .,0,0
+359,3,plunge,the stock market plunged .,1,1
+360,2,plunge,The professor plunged his students into the study of the Italian text .,1,1
+361,0,poison,poison someone 's mind .,1,1
+362,1,poison,She poisoned her husband .,0,0
+363,2,poison,Her husband poisoned her drink in order to kill her .,0,0
+364,3,poison,This mushrooms can poison .,0,0
+365,2,portray,The book portrays the actor as a selfish person .,1,0
+366,3,portray,The father is portrayed as a good - looking man in this painting .,0,0
+367,1,pose,This poses an interesting question .,1,0
+368,7,pose,We do n't k0w the woman who posed for Leonardo so often .,0,0
+369,2,pound,the salesman pounded the door k0cker .,0,0
+370,2,pound,The locks pound the water of the canal .,1,0
+371,4,pound,The prisoners are safely pounded .,1,0
+372,1,pour,They poured water over the floor .,0,0
+373,1,pour,They poured water over the floor .,0,0
+374,2,pour,People were pouring out of the theater .,1,0
+375,1,pour,We poured money into the education of our children .,1,0
+376,2,precipitate,The crisis precipitated by Russia 's revolution .,1,0
+377,2,precipitate,Our eco0my precipitated into complete ruin .,1,0
+378,4,precipitate,The bridge broke and precipitated the train into the river below .,1,0
+379,0,preserve,preserve the peace in the family .,1,0
+380,0,preserve,preserve the forest and the lakes .,0,0
+381,2,prick,The nurse pricked my finger to get a small blood sample .,0,0
+382,2,prick,The needle pricked his skin .,0,0
+383,5,prick,The thought of her unhappiness pricked his conscience .,1,1
+384,3,puff,The sudden fame puffed her ego .,1,1
+385,2,puff,The critics puffed up this Broadway production .,1,0
+386,2,puff,Her faced puffed up from the drugs .,0,0
+387,1,pump,He pumped bullets into the dummy .,1,0
+388,2,pump,The athlete pumps weights in the gym .,0,0
+389,1,pump,She pumped the witnesses for information .,1,0
+390,1,push,He pushed the table into a corner .,0,0
+391,2,push,""" 0w push hard "" , said the doctor to the woman .",0,0
+392,4,push,The salesman is aggressively pushing the new computer model .,1,0
+393,2,push,She is pushing fifty .,1,0
+394,3,push,The liberal party pushed for reforms .,1,0
+395,7,push,The guy hanging around the school is pushing drugs .,1,0
+396,2,push,The crowd pushed forward .,0,0
+397,2,radiate,The sun radiates heat .,0,0
+398,2,radiate,The sun radiates heat .,0,0
+399,1,radiate,She radiates happiness .,1,1
+400,2,raid,The police raided the crack house .,0,0
+401,2,raid,The pirates raided the coastal villages regularly .,0,0
+402,3,raid,T. Boone Pickens raided many large companies .,0,0
+403,2,raid,Our babysitter raided our refrigerator .,1,0
+404,3,recapture,She could 0t recapture that feeling of happiness .,1,0
+405,2,recapture,The author recaptures an old idea here .,1,0
+406,5,recapture,The military forces managed to recapture the fort .,0,0
+407,3,recapture,They tried to recapture the escaped prisoner .,0,0
+408,7,recast,The bell cracked and had to be recast .,0,0
+409,3,recast,She had to recast her image to please the electorate in her home state .,1,0
+410,1,redound,Fame redounds to the heroes .,1,0
+411,3,redound,Her efforts will redound to the general good .,1,0
+412,2,reflect,This action reflects his true beliefs .,1,0
+413,2,reflect,Sound is reflected well in this auditorium .,0,0
+414,6,reflect,Drive carefully -- the wet road reflects .,0,0
+415,2,reflect,her sunglasses reflected his image .,0,0
+416,7,reflect,His lack of interest in the project reflects badly on him .,1,0
+417,6,reflect,The mess in his dorm room reflects on the student .,1,0
+418,0,reform,reform a political system .,0,0
+419,0,relax,relax the tension on the rope .,0,0
+420,4,relax,A hot bath always relaxes me .,0,0
+421,3,relax,our new colleague relaxed when he saw that we were a friendly group .,0,0
+422,2,relax,The government relaxed the curfew after most of the rebels were caught .,1,0
+423,2,relax,The rules relaxed after the new director arrived .,1,0
+424,4,repair,One can never fully repair the suffering and losses of the Jews in the Third Reich .,1,0
+425,2,revive,The doctors revived the comatose man .,0,0
+426,4,revive,A hot soup will revive me .,1,0
+427,3,revive,Interest in ESP revived .,1,0
+428,1,revive,He revived this style of opera .,1,0
+429,2,rip,The curtain ripped from top to bottom .,0,0
+430,2,rip,The tornado ripped along the coast .,1,0
+431,2,rip,The candidate ripped into his opponent mercilessly .,1,1
+432,2,root,this plant roots quickly .,0,0
+433,2,root,The problem roots in her depression .,1,1
+434,3,root,the pig was rooting for truffles .,0,1
+435,1,rotate,We rotate the lead sopra0 every night .,1,0
+436,3,rotate,Interns have to rotate for a few months .,1,0
+437,1,rotate,We rotate the crops so as to maximize the use of the soil .,1,0
+438,3,ruffle,She wanted to ruffle his composure .,1,0
+439,5,ruffle,This play is going to ruffle some people .,1,0
+440,2,ruffle,The bird ruffled its feathers .,0,0
+441,2,ruffle,The wind ruffled the surface of the water .,0,0
+442,2,ruffle,The seamstress ruffled the curtain fabric .,0,0
+443,2,ruin,You have ruined my car by pouring sugar in the tank !,0,0
+444,3,ruin,This behavior will ruin your chances of winning the election .,1,0
+445,3,salt,the rebels had salted the fields with mines and traps .,1,0
+446,1,salt,She salts her lectures with jokes .,1,0
+447,3,salt,people used to salt meats on ships .,0,0
+448,1,salute,I salute your courage !,1,0
+449,3,salute,a terrible stench saluted our 0strils .,1,0
+450,10,salute,"When the officers show up , the soldiers have to salute .",0,0
+451,2,scan,the surgeon scanned the X - ray .,0,0
+452,1,scan,She scanned the newspaper headlines while waiting for the taxi .,1,0
+453,2,scan,The beams scanned the night sky .,1,0
+454,2,scorch,The heat scorched the countryside .,1,0
+455,2,scorch,The wildfire scorched the forest and several homes .,0,0
+456,2,scrape,The cat scraped at the armchair .,0,0
+457,1,scrape,They scraped a letter into the stone .,0,0
+458,2,scrape,She had scraped together e0ugh money for college .,1,0
+459,4,seize,The sales clerk quickly seized the money on the counter .,0,0
+460,2,seize,the invaders seized the land and property of the inhabitants .,0,1
+461,1,seize,Fear seized the prisoners .,1,0
+462,2,sell,These books sell like hot cakes .,0,1
+463,4,sell,The French try to sell us their image as great lovers .,1,0
+464,2,sell,The brothers sell shoes .,0,0
+465,3,shake,The bad news shook her hopes .,1,0
+466,0,shake,Shake the salt out of the salt shaker .,0,0
+467,3,sharpen,We had to sharpen our arguments .,1,0
+468,2,sharpen,The debate sharpened .,1,1
+469,3,sharpen,This drug will sharpen your vision .,1,0
+470,1,shed,He shed his image as a pushy boss .,1,1
+471,1,shed,She shed a lot of tears when this happened .,0,0
+472,2,shed,Our dog sheds every Spring .,0,0
+473,2,shipwreck,You have shipwrecked my career .,1,1
+474,3,shipwreck,The vessel was shipwrecked .,0,0
+475,2,shower,He was showered with praise .,1,1
+476,1,shower,Meteors showered down over half of Australia .,0,0
+477,1,shower,He showered her with presents .,1,0
+478,2,sift,The soldiers sifted through the woods .,1,0
+479,1,sift,He sifted the information .,1,0
+480,1,sift,They sifted through the job candidates .,1,0
+481,3,sing,The nightingale was singing .,0,0
+482,3,sing,the kettle was singing .,1,0
+483,6,sit,When does the court of law sit ?,1,0
+484,3,sit,The White House sits on Pennsylvania Avenue .,1,0
+485,1,smash,She smashed her car against the guard rail .,0,0
+486,2,smash,The motorcycle smashed into the guard rail .,0,0
+487,2,smash,The police smashed the drug ring after they were tipped off .,1,1
+488,0,smother,smother the meat in gravy .,0,0
+489,3,smother,the butter cream smothered the cake .,1,1
+490,1,s0rt,she s0rted her disapproval of the proposed bridegroom .,1,0
+491,2,s0rt,The critic s0rted contemptuously .,1,0
+492,3,s0rt,The addict was s0rting cocaine almost every day .,0,0
+493,1,sow,She sowed sunflower seeds .,0,0
+494,0,sow,sow suspicion or beliefs .,1,1
+495,0,sow,sow the ground with sunflower seeds .,0,0
+496,3,spell,How do you spell this word ?,0,0
+497,4,spell,I 'm afraid this spells trouble !,1,0
+498,1,spell,She spelled her husband at the wheel .,1,0
+499,2,spell,the workers spell every four hours .,1,0
+500,1,splash,She splashed the water around her .,0,0
+501,1,splash,She splashed the water around her .,0,0
+502,3,splash,The mountain was splashed with s0w .,1,1
+503,2,spot,The wine spotted the tablecloth .,0,0
+504,2,spot,This dress spots quickly .,0,0
+505,0,spot,spot the areas that one should clearly identify .,0,0
+506,1,spray,Water sprayed all over the floor .,0,0
+507,0,spray,spray water on someone .,0,0
+508,0,spray,spray the wall with paint .,0,0
+509,2,spread,The invaders spread their language all over the country .,1,0
+510,0,spread,spread cheese on a piece of bread .,0,0
+511,2,spread,the infection spread .,0,0
+512,4,spread,A big oil spot spread across the water .,0,0
+513,0,square,square the wood with a file .,0,0
+514,1,square,He squared his shoulders .,1,1
+515,2,square,one idea squares with the other one .,1,0
+516,3,stagger,The drunken man staggered into the room .,0,0
+517,4,stagger,The architect decided to stagger the chairs in the lecture hall .,0,0
+518,2,stagger,She was staggered with bills after she tried to rebuild her house following the earthquake .,1,0
+519,2,stagnate,Industry will stagnate if we do 0t stimulate our eco0my .,1,0
+520,4,stagnate,There are marshes that stagnate the waters .,0,0
+521,1,stagnate,blood stagnates in the capillaries .,0,0
+522,6,stamp,a man whose name is permanently stamped on our maps .,1,0
+523,4,stamp,Are the letters properly stamped ?,0,0
+524,2,stampede,Thunderbolts can stampede animals .,0,0
+525,3,stampede,Companies will 0w stampede to release their latest software .,1,1
+526,2,steam,The ship steamed off into the Pacific .,0,0
+527,7,steam,her indifference to his amorous advances really steamed the young man .,1,0
+528,1,steam,just steam the vegetables .,0,0
+529,2,steamroller,The Senator steamrollered the bill to defeat .,1,1
+530,5,steamroller,The new teacher tends to steamroller .,1,1
+531,0,steamroller,steamroller the road .,0,1
+532,0,steamroller,steamroller the opposition .,1,1
+533,2,stream,their manes streamed like stiff black pennants in the wind .,1,1
+534,2,stream,She was streaming with sweat .,1,0
+535,1,stream,Tears streamed down her face .,0,0
+536,4,stuff,My 0se is all stuffed .,0,0
+537,1,stuff,She stuffed herself at the dinner .,1,0
+538,0,stuff,stuff a pillow with feathers .,0,0
+539,2,stuff,Have you stuffed the turkey yet ?,0,0
+540,0,suck,suck the poison from the place where the snake bit .,0,0
+541,6,suck,The current boom in the eco0my sucked many workers in from abroad .,1,0
+542,2,swallow,The Nazis swallowed the Baltic countries .,1,0
+543,3,swallow,The huge waves swallowed the small boat and it sank shortly thereafter .,1,0
+544,1,swallow,She swallowed the last words of her speech .,1,0
+545,1,swallow,He swallowed his words .,1,1
+546,1,swallow,I swallowed my anger and kept quiet .,1,0
+547,4,swallow,Am I supposed to swallow that story ?,1,0
+548,2,swell,The music swelled to a crescendo .,1,0
+549,3,swell,The mother was swelling with importance when she spoke of her son .,1,1
+550,7,swell,The bellies of the starving children are swelling .,0,0
+551,2,swell,The water swells the wood .,0,0
+552,3,swim,my brain is swimming after the bottle of champagne .,1,1
+553,3,swim,the meat was swimming in a fatty gravy .,1,0
+554,2,swim,this snake swims through the soil where it lives .,0,0
+555,0,tack,tack the 0tice on the board .,0,0
+556,4,tack,The sailors decided to tack the boat .,0,0
+557,1,tack,He tacked together some verses .,1,0
+558,1,talk,Actions talk louder than words .,1,0
+559,2,talk,The baby talks already .,0,0
+560,2,taste,Can you taste the garlic ?,0,0
+561,1,taste,We tasted wines last night .,0,0
+562,4,taste,The ex - slave tasted freedom shortly before she died .,1,0
+563,2,tax,The State taxes alcohol heavily .,0,0
+564,2,tax,You are taxing my patience .,1,1
+565,1,tax,They taxed him failure to appear in court .,1,1
+566,5,tense,the bodybuilder 's neck muscles tensed .,0,0
+567,2,thunder,The bus thundered down the road .,1,1
+568,2,thunder,The river thundered below .,1,0
+569,1,tie,They tied their victim to the chair .,0,0
+570,4,tie,These big jets are tied to large airports .,1,0
+571,2,tie,The fishermen tied their flies .,0,0
+572,1,top,They topped off their dinner with a cognac .,1,0
+573,2,top,A star tops the Christmas Tree .,0,0
+574,3,top,The towers were topped with conical roofs .,0,0
+575,2,top,The hikers topped the mountain just before 0on .,1,0
+576,0,trace,trace the outline of a figure in the sand .,0,0
+577,2,trace,The hunters traced the deer into the woods .,0,0
+578,1,trace,She traced the circumstances of her birth .,1,0
+579,2,transform,This experience transformed her completely .,1,0
+580,2,transform,It can transform energy to light .,0,0
+581,0,tread,tread grapes to make wine .,0,0
+582,2,tread,male birds tread the females .,0,0
+583,1,trench,He trenched his military camp .,0,0
+584,1,trench,letters trenched into the stone .,0,0
+585,0,trench,trench the fallen soldiers .,0,0
+586,2,tug,The prisoner tugged at the chains .,0,0
+587,1,tug,She tugged for years to make a decent living .,1,0
+588,2,tug,The tugboat tugged the freighter into the harbor .,0,0
+589,3,tug,The horse finally tugged the cart out of the mud .,0,0
+590,2,twist,The wrestler twisted his shoulder .,0,0
+591,4,twist,The cord is all twisted .,0,0
+592,2,twist,Do n't twist my words .,1,0
+593,2,uproot,The war uprooted many people .,1,0
+594,7,uproot,The vestiges of political democracy were soon uprooted .,1,1
+595,3,uproot,They plan to uproot the vine that has spread all over the garden .,0,0
+596,1,vest,She vested her vast fortune in her two sons .,0,0
+597,2,vest,The property vests in the trustees .,0,0
+598,3,visit,Did you ever visit Paris ? .,0,0
+599,2,visit,The principal visited his rage on the students .,1,0
+600,4,visit,"Every summer , we visited our relatives in the country for a month .",0,0
+601,4,visit,"Every summer , we visited our relatives in the country for a month .",1,0
+602,3,volley,They began to volley the tennis ball .,0,0
+603,3,volley,I heard him volley a string of curses .,1,0
+604,2,wallow,pigs were wallowing in the mud .,0,0
+605,0,wallow,wallow in your success !,1,1
+606,2,wear,She was wearing yellow that day .,0,0
+607,2,wear,He always wears a smile .,1,0
+608,0,wear,wear one 's hair in a certain way .,0,0
+609,2,whistle,The bullets whistled past him .,1,0
+610,1,whistle,She whistled a melody .,0,0
+611,2,whistle,Her optimism whistled away these worries .,1,0
+612,1,wrestle,He wrestled all his life with his feeling of inferiority .,1,0
+613,1,wrestle,I wrestled with this decision for years .,1,0
+614,2,wrestle,The children wrestled in the garden .,0,0
+615,1,bow,He bowed before the King .,0,0
+616,2,breathe,I can breathe better when the air is clean .,0,0
+617,7,breathe,This rare Bordeaux must be allowed to breathe for at least 2 hours .,0,0
+618,2,color,The child colored the drawings .,0,0
+619,3,color,My personal feelings color my judgment in this case .,1,1
+620,6,communicate,He and his sons have n't communicated for years .,0,0
+621,3,computerize,Please use a computerized disctionary .,0,0
+622,2,condense,Her feelings condensed .,1,0
+623,3,drain,The exercise class drains me of energy .,1,1
+624,2,dump,The company dumped him after many years of service .,1,1
+625,0,engrave,engraved the trophy cupt with the winner 's .,0,0
+626,2,erase,The Turks erased the Armenians in 1915 .,1,0
+627,1,erupt,Vesuvius erupts once in a while .,0,0
+628,2,ferment,Islam is fermenting Africa .,1,1
+629,0,grind,grind lenses for glasses and cameras .,0,0
+630,3,jam,the theater was jampacked .,1,0
+631,1,lean,She leaned over the banister .,0,0
+632,7,lighten,"after a glass of wine , he lightened up a bit .",1,0
+633,2,lock,They were locked in embrace .,1,0
+634,1,march,He marched into the classroom and an0unced the exam .,0,0
+635,2,palpitate,His heart palpitated .,1,0
+636,1,peep,He peeped at the woman through the window .,0,0
+637,3,portray,"Goya wanted to portray his mistress , the Duchess of Alba .",0,0
+638,1,preserve,We preserve these archeological findings .,0,0
+639,1,sail,We sailed the Atlantic .,0,0
+640,2,sing,She was singing while she was cooking .,0,0
+641,0,stamp,stamp fruit extract the juice .,1,0
+642,3,swim,We had to swim for 20 minutes to reach the shore .,0,0
+643,1,talk,She talks a lot of 0nsense .,0,0
+644,1,transform,He transformed into a monster .,1,0
+645,2,volley,Gun shots volleyed at the attackers .,0,0
+646,1,whistle,She whistled for her maid .,0,0
