@@ -1,3 +1,4 @@
+num,windex,word,sent,label,pred
 0,1,absorb,He absorbed the k0wledge or beliefs of his tribe .,1,0
 1,1,absorb,He absorbed the costs for the accident .,1,0
 2,4,absorb,The sales tax is absorbed into the state income tax .,1,0

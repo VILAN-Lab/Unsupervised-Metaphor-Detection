@@ -1,3 +1,4 @@
+num,windex,word,sent,label,pred
 0,22,absorb,"An Energy Department spokesman says the sulfur dioxide might be simultaneously recoverable through the use of powdered limestone , which tends to absorb the sulfur ",0,0
 1,5,absorb,The yellow beta carotene pigment absorbs blue -LRB- not yellow -RRB- laser light ,0,0
 2,5,absorb,"This time , the ground absorbed the shock waves enough to transfer her images to the metal in bas - relief ",0,0

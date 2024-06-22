@@ -1,3 +1,4 @@
+num,windex,word,sent,label,pred
 0,17,say,"Design: Crossed lines over the toytown tram: City transport could soon be back on the right track, says Jonathan Glancey",0,0
 1,6,know,"MODERN trams, as most continental Europeans know, neither shake nor rattle, nor do they roll.",0,0
 2,8,shake,"MODERN trams, as most continental Europeans know, neither shake nor rattle, nor do they roll.",0,0
