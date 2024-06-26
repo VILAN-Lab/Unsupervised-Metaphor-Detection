@@ -4,15 +4,9 @@ This repository contains the code for the paper "Can ChatGPT's Performance be Im
 
 ## Table of Contents
 
-- [Introduction](#introduction)
 - [Setup](#setup)
 - [Usage](#usage)
 - [Datasets](#datasets)
-- [Contributing](#contributing)
-
-## Introduction
-
-In this project, we investigate approaches to improve the performance of ChatGPT in detecting verb metaphors. By bootstrapping and combining tacit knowledge, we aim to enhance the model's understanding and detection capabilities.
 
 ## Setup
 
@@ -79,7 +73,4 @@ The `datas` directory should include:
 - A verb list constructed using a metaphor dataset.
 - Samples that have been mapped with themes.
 
-## Contributing
-
-We welcome contributions from the community. If you find a bug or have a feature request, please open an issue or submit a pull request.
 
