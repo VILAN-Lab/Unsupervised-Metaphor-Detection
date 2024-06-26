@@ -63,6 +63,7 @@ To evaluate the performance of metaphor detection using the Oxford theme on the 
 ```python
 from data_process import *
 
+# k1, k2, sent_file, verb_lists_file
 TroFi_judge_by_oxford_topic_k(1, 2, "datas/TroFi_sent_svo_oxford_topic_k_basic.csv", "datas/TroFi_verb_lists_oxford_topic.csv")
 ```
 
