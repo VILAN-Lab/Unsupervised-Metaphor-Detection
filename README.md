@@ -5,8 +5,8 @@ This repository contains the code for the paper "Can ChatGPT's Performance be Im
 ## Table of Contents
 
 - [Setup](#setup)
-- [Usage](#usage)
 - [Datasets](#datasets)
+- [Usage](#usage)
 
 ## Setup
 
@@ -47,6 +47,13 @@ Once you have your API key, manually input it into the `new_Tools.py` file. Open
 api_key = ""
 ```
 
+## Datasets
+
+The `datas` directory should include:
+
+- A verb list constructed using a metaphor dataset.
+- Samples that have been mapped with themes.
+
 ## Usage
 
 ### Preparing the Data
@@ -67,11 +74,6 @@ from data_process import *
 TroFi_judge_by_oxford_topic_k(1, 2, "datas/TroFi_sent_svo_oxford_topic_k_basic.csv", "datas/TroFi_verb_lists_oxford_topic.csv")
 ```
 
-## Datasets
 
-The `datas` directory should include:
-
-- A verb list constructed using a metaphor dataset.
-- Samples that have been mapped with themes.
 
 
